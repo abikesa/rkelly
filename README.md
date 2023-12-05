@@ -28,6 +28,12 @@
        - `vi` is home and feels that way (but "home" in RnB is a restless emotion - ***Boy I wanna let you know, my heart...***)
    
    - Meaning
+     - Ambiguity of III7 in the key of G
+     - Begs to resolve to E Major or E minor
+     - Yet as a secondary dominant it merely returns to G Major
+     - I'll restate here that we never at any point hear the V7; so the ambiguity is effective
+     - Modulation to the bridge sounds like its to a distant yet aesthetically appropriate key
+     - Our meastro has prepared us for this key although he's deleted the tonic center and kept us around the restless `vi`
      
 5. Subject
 6. Verb
