@@ -28,6 +28,11 @@
        - `vi` is home and feels that way (but "home" in RnB is a restless emotion - ***Boy I wanna let you know, my heart...***)
    
    - Meaning
+     - `Diabolus musica` of introductory passage:
+       - Begins with `IV-vii`
+       - Ends with `bV-I`
+       - Tritones in both cases
+       - Rather curious since its `a street thing`
      - Ambiguity of III7 in the key of G
      - Begs to resolve to E Major or E minor
      - Yet as a secondary dominant it merely returns to G Major
@@ -38,3 +43,24 @@
 5. Subject
 6. Verb
 7. Object
+
+| Harmonic | Key |
+|----------|-----|
+| 1        | C   |
+| 2        | G   |
+| 3        | E   |
+| 4        | A   |
+| 5        | D   |
+| 6        | B   |
+| `7`       | `F#`  |
+| 8        | A#  |
+| 9        | C#  |
+| 10       | D#  |
+| 11       | F   |
+| 12       | G#  |
+
+   - Indeed, there's an interesting historical irony in the acceptance and use of certain pitches in Western music. The medieval perception of the tritone, particularly the pitch F# or Gb, as dissonant and even labeled as "diabolus in musica" contrasted with the acceptance of F, which isn't a natural harmonic in the series but was incorporated into musical practice.
+
+   - The cultural and historical reasons behind these attitudes are complex and often rooted in religious and aesthetic considerations. Musical traditions and practices evolve over time, and decisions about which pitches were considered acceptable or unacceptable were influenced by a variety of factors, including religious beliefs, cultural preferences, and evolving musical theories.
+
+   - As time progressed, composers and musicians explored new harmonic possibilities, and attitudes towards dissonance evolved. The acceptance of F# and the tritone, once considered problematic, became integral to Western classical and later musical styles. This highlights the dynamic and changing nature of musical conventions and the sometimes surprising trajectories of acceptance for various musical elements.
