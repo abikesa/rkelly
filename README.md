@@ -59,7 +59,9 @@
 | 11       | F   |
 | 12       | G#  |
 
-   - Indeed, there's an interesting historical irony in the acceptance and use of certain pitches in Western music. The medieval perception of the tritone, particularly the pitch F# or Gb, as dissonant and even labeled as "diabolus in musica" contrasted with the acceptance of F, which isn't a natural harmonic in the series but was incorporated into musical practice.
+   - Set (1-5) forms a pentatonic scale, specifically the `C major pentatonic scale`. The second set (7-10, 12) also forms a pentatonic scale, specifically the `F# major pentatonic scale`. Excluding `B` and `F` from the modern day keyboard would leave two distinct pentatonic scales.
+     
+   -  An interesting historical irony exists in the acceptance and use of certain pitches in Western music. The medieval perception of the tritone, particularly the pitch F# or Gb, as dissonant and even labeled as "diabolus in musica" contrasted with the acceptance of F, which isn't a natural harmonic in the series but was incorporated into musical practice.
 
    - The cultural and historical reasons behind these attitudes are complex and often rooted in religious and aesthetic considerations. Musical traditions and practices evolve over time, and decisions about which pitches were considered acceptable or unacceptable were influenced by a variety of factors, including religious beliefs, cultural preferences, and evolving musical theories.
 
