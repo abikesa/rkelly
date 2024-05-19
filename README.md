@@ -4,15 +4,15 @@
 
 ![](https://muzaale.github.io/thesis/_images/c46f14aedec2cffd800a2418439eee6e989489a7662980ae1e89d757dbab3b31.png)
 
-### Empirical
+### God 
 ##### 1st, 3rd, 5th, ♭♭7, 9th
 1. [Monotonic](https://openai.com/index/hello-gpt-4o/): hunter-gatherer
 2. [Pentatonic](https://en.wikipedia.org/wiki/Seven_Samurai): peasant, farmer, [manufacturer](https://www.youtube.com/watch?v=i-o5YbNfmh0), [energy](https://www.youtube.com/watch?v=_Vik6UJTFyk), [deploy](https://www.youtube.com/watch?v=585IMBb14Kg)
-### Model
+### Collective 
 ##### 11th, 13th 
 3. [Diatonic](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly): farmer
 4. [Chromatic](https://en.wikipedia.org/wiki/No_Country_for_Old_Men): manufacturer
-### Competition
+### Man  
 ##### ♭9,♯9,♯11,♭13 
 5. Temperament: energy
 6. [Expression](https://www.youtube.com/watch?v=e4Vp7Fpv5BI): deploy
