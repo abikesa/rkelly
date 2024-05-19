@@ -24,3 +24,7 @@
 - V7 with looped chords (i, ii, i, ii, etc. inversons)
 - More obvious in "I believe I can fly"
 
+#### Technical
+- None of this is superior to Aaron Lindsay from a technical perspective
+- Aaron as a session musician would enhance R Kelly
+- But its in the composition just as between me & Vince
