@@ -1,4 +1,4 @@
-*individual [&](https://www.youtube.com/watch?v=Pl742pn7bnw) collective*
+*individual (Frail) [&](https://www.youtube.com/watch?v=Pl742pn7bnw) collective (Unreliable), but god!*
 
 > $\frac{\partial}{\partial t}\text{Costs, Relations, Advantage} \sim \ \beta_0 + \beta_1 \text{Simple} + \beta_2 \text{Precision} + \beta_3 \text{Compute} + \beta_4 \text{Iteration} + \beta_5 \text{Transportation} + \epsilon_i$
 
