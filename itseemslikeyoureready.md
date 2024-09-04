@@ -1,4 +1,0 @@
-- [three chords](https://www.youtube.com/watch?v=OVWL9w5s7qo)
-   - Lento 58 BPM
-   - vi-V13sus4-III7(#9,b9) 
-- [live performance](https://www.youtube.com/watch?v=fu-3WN9TJNI) @34:43/1:50:07 
