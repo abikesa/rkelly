@@ -62,6 +62,8 @@ In this grand experiment of life, perhaps the most profound discovery is not whe
 
 > *PS: Despite the hundreds of billions of dollars spent training these models, they do no better than Nietzsche's "Attempt at Self Criticism". They do worse. Because his thesis, infinitely more precise (I can say in one sentense what other's say, can't say, in a book), is that our preference for "paradise/order" vs "reality/chaos" is a mere symptom of our frailty vs. robustness. Nietzsche `wins` this by a, very, wide margin! Brevity is the soul of wit*
 
+> *PPS: Also, lets discuss the {ref}`ubermensch`. Dostoevsky's "The Gambler" is a nice starting point. In brief, there is a continuum from mensch to übermensch: gambling-betting-investing-creating-acquiring. We know where Caesar or Napoleon fall on that spectrum. Its a related to a moral continuum: fraud-sloppy-error-rigor-truth. What maketh a man?*
+
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/BPYffa95L9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Rosemary's Baby
